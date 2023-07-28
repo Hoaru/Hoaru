@@ -6,13 +6,17 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Hoaru/Hoaru/output/github-contribution-grid-snake.svg" />
 </picture>
 
-1. Account Information
+
+Account Information
+
 ![Account Information](https://github-stats.ubrong.com/api?username=Hoaru&show_icons=true&theme=tokyonight)
 
-3. Most Used Languages
+Most Used Languages
+
 ![Most Used Languages](https://github-stats.ubrong.com/api/top-langs/?username=Hoaru&layout=compact&theme=tokyonight)
 
-3. Visitor Count
+Visitor Count
+
 ![Visitor Count](https://profile-counter.glitch.me/{Hoaru}/count.svg)
 
 <!--
