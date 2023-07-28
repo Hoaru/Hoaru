@@ -7,8 +7,13 @@
 </picture>
 
 1. Account Information
-
 ![Account Information](https://github-stats.ubrong.com/api?username=Hoaru&show_icons=true&theme=tokyonight)
+
+3. Most Used Languages
+![Most Used Languages](https://github-stats.ubrong.com/api/top-langs/?username=Hoaru&layout=compact&theme=tokyonight)
+
+3. Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/{Hoaru}/count.svg)
 
 <!--
 **Hoaru/Hoaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
