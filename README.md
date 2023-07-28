@@ -6,9 +6,9 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Hoaru/Hoaru/output/github-contribution-grid-snake.svg" />
 </picture>
 
-1.1 账户信息统计 
+1. Account Information
 
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=Hoaru&show_icons=true&theme=tokyonight)
+![Account Information](https://github-stats.ubrong.com/api?username=Hoaru&show_icons=true&theme=tokyonight)
 
 <!--
 **Hoaru/Hoaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
